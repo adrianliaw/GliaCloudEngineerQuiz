@@ -1,8 +1,8 @@
 # GliaCloud Engineer Quiz
 
 ### Web Development
-You can access to [my site](http://5016a1ba.ngrok.com)
-(Well, I cheated using ngrok...)  
+You can access to my site by http://gliacloud-engineer-quiz.herokuapp.com  
+The admin interface is at http://gliacloud-engineer-quiz.herokuapp.com/admin/excuses/sentence  
 The admin username is "admin", and password is "!@#$admin%^&*"
 
 ### Puzzle
